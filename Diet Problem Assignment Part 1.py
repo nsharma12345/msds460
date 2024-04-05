@@ -58,3 +58,9 @@ for food in food_names:
 
 # Print the total cost of the optimal diet
 print("Total Cost of the Diet: $", value(prob.objective))
+
+# Output
+# Optimal Diet Plan:
+# Horizon Organic Whole High Vitamin D Milk :  43.365854
+# Organic Tricolor Quinoa :  63.0
+# Total Cost of the Diet: $ 59.081707439999995
