@@ -18,8 +18,8 @@ food_items = [
     ['Lightlife tempeh', 1.52, 0, 160, 18, 0, 87, 2, 284],
     ['VitaCoco coconut water', 1.60, 60, 45, 0, 0, 34, 0, 470],
     ['Eggs', 0.87, 80, 80, 7, 1.1, 30, 1, 80],
-    ['Horizon Organic Whole High Vitamin D Milk', 0.69, 135, 160, 8, 4.5, 310, 0, 410],
-    ['Organic Tricolor Quinoa', 0.36, 0, 150, 6, 0, 20, 2, 240]
+    ['Horizon Organic Whole High Vitamin D Milk', 0.36, 135, 160, 8, 4.5, 310, 0, 410],
+    ['Organic Tricolor Quinoa', 0.69, 0, 150, 6, 0, 20, 2, 240]
 ]
 
 # Create a list of food item names
