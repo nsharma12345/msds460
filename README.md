@@ -35,9 +35,11 @@ Cost per serving of tempeh = $3.79/2.5 = $1.52/serving
 
 
 Part 2. The following is the program code for the diet problem. 
-
-
-
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 
 Specify the linear programming problem in standard form, showing decision variables, objective function with cost coefficients, and weekly nutritional constraints. Describe the problem in plain English. Implement the linear programming problem using Python PuLP or AMPL. Provide the program code and output/listing as plain text files, posting within a GitHub repository dedicated to this assignment. 
