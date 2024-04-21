@@ -1,10 +1,4 @@
 # Critical Path Analysis 
-
-# Problem description from Williams (2013, pages 94-98)
-# Williams, H. Paul. 2013. Model Building in Mathematical Programming (fifth edition). New York: Wiley. [ISBN-13: 978-1-118-44333-0]
-
-# Python PuLP solution prepared by Thomas W. Miller
-# Revised April 20, 2023
 # Implemented using activities dictionary with derived start_times and end_times
 # rather than time decision variables as in Williams (2013)
 
@@ -88,7 +82,7 @@ for var in prob.variables():
 
 
 # The minimum duration for the worst case scenario is 832 hours, which is the critical path time.  
-    
+# The min cost code for the worst case scenario is found in "worst_case_min_cost.py" file   
    
     
     
