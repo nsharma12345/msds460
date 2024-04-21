@@ -1,5 +1,3 @@
-Part 1. 
-
 This assignment involves creating a proposal for a software development project for a group of restaurant owners in Marlborough, Massachusetts. The main deliverable is a consumer-focused recommendation system for over a hundred restaurants, with data sourced from Yelp reviews. The system will be updated monthly for the list of restaurants and daily for the Yelp reviews.
 As the owner of my own data science and software engineering firm, I will be involved in all aspects of the recommender system. My team includes a project manager (myself), frontend developer, backend developer, data engineer, data scientist, and database administrator.
 
