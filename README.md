@@ -36,7 +36,7 @@ Expected scenario:
 Best case scenario:
 ![image](https://github.com/nsharma12345/msds460/assets/166173519/5ee7d1ed-6dd2-4ef8-818c-ce7ac9136e21)
 
-
+Write a brief overview of the project for the prospective client. Ignoring costs associated with software licensing and cloud hosing, what would you charge for the project? When would you expect to be delivering the product prototype? How soon could you deliver the product prototype if additional independent contractors were added to the mix?
 
 
 
