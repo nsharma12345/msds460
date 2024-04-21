@@ -8,6 +8,8 @@ The figure below shows the activities, their predecessors, the estimates of hour
 
 ![image](https://github.com/nsharma12345/msds460/assets/166173519/dffc7f81-d217-41e5-b70f-d6f2e9689d18)
 
+As seen in the figure above, a bulk of the hours are assigned to activity D4, coding, because that typically takes up more time compared to the other activities in the project lifecycle. 
+
 Some uncertainties the team had related to this assignment were around the Yelp API, the chosen technologies, and the availability of the different workers. Additionally, the estimates for the best-case, expected, and worst-case number of hours needed for each task are based on assumptions and could vary. The hourly rate for each worker role is assumed to be $55 per hour, realistically this rate would vary based on factors like experience level, market rates, etc. However, for the purpose of this assignment in specifying the objective function, we are making the simplifying assumption that all contributors to the project charge the same hourly rate.
 
 The figures below show the directed graphs for each scenario, with the values on the arrows being the total duration of a task in hours. 
