@@ -50,13 +50,17 @@ Key Features:
 •	Intelligent machine learning based recommendation generation
 •	Friendly user interface for browsing and selecting restaurants
 •	Monthly update for the list of restaurants and daily update for Yelp reviews
+
 Project Timeline: 4-5 months
+
 Cost Estimate: $75,000
+
 Project Phases:
 1.    Planning (2 weeks): Gather requirements, define scope, and create a detailed project plan.
 2.    Development (8-10 weeks): Build the recommendation system, integrate with Yelp API, and implement machine learning algorithms.
 3.    Testing (2-3 weeks): Conduct thorough testing to ensure the system is accurate, reliable, and user-friendly.
 4.    Deployment (2. Weeks): Deploy the system to a production environment and provide training and support to restaurant owners.
+  
 Key Benefits:
 •	Increased customer satisfaction through personalized recommendations
 •	Improved business performance for restaurants
@@ -66,7 +70,9 @@ Payment Terms:
 •	20% on sign off of requirements and design
 •	30% on signoff of acceptance testing
 •	30% on implementation 
+
 The Marlborough Restaurant Recommendation System will act as significant business development channel for restaurant owners in Marlborough attract and help develop and retain customers.
+
 We will charge $75,000 for the project. This gives a margin of 100% in the expected case and in the worst-case scenario the margin drops to 25% but we still make some money. Also, we will deliver the project in 4-5 months. If we added additional independent contractors we can shave 4-6 weeks across system analysis, design, coding and unit testing phases leading to the reduction in delivery time of the overall project by 4-6 weeks.
 
 
