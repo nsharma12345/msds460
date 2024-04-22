@@ -38,7 +38,35 @@ Expected scenario:
 Best case scenario:
 ![image](https://github.com/nsharma12345/msds460/assets/166173519/5ee7d1ed-6dd2-4ef8-818c-ce7ac9136e21)
 
-Write a brief overview of the project for the prospective client. Ignoring costs associated with software licensing and cloud hosing, what would you charge for the project? When would you expect to be delivering the product prototype? How soon could you deliver the product prototype if additional independent contractors were added to the mix?
+Project Overview: 
+Project Title: Marlborough Restaurant Recommendation System
+Client: Restaurants Association, Marlborough
+Objective: Develop a consumer-focused recommendation system for target set of restaurants, using Yelp reviews as the primary data source.
+Main Deliverable: A user-friendly recommendation system that provides personalized restaurant recommendations based on Yelp reviews.
+Key Features:
+•	Personalized recommendations for customers
+•	Integration with Yelp API for real-time data updates
+•	Intelligent machine learning based recommendation generation
+•	Friendly user interface for browsing and selecting restaurants
+•	Monthly update for the list of restaurants and daily update for Yelp reviews
+Project Timeline: 4-5 months
+Cost Estimate: $75,000
+Project Phases:
+1.    Planning (2 weeks): Gather requirements, define scope, and create a detailed project plan.
+2.    Development (8-10 weeks): Build the recommendation system, integrate with Yelp API, and implement machine learning algorithms.
+3.    Testing (2-3 weeks): Conduct thorough testing to ensure the system is accurate, reliable, and user-friendly.
+4.    Deployment (2. Weeks): Deploy the system to a production environment and provide training and support to restaurant owners.
+Key Benefits:
+•	Increased customer satisfaction through personalized recommendations
+•	Improved business performance for restaurants
+•	Access to real-time data for informed decision-making
+Payment Terms:
+•	20% on acceptance of proposal
+•	20% on sign off of requirements and design
+•	30% on signoff of acceptance testing
+•	30% on implementation 
+The Marlborough Restaurant Recommendation System will act as significant business development channel for restaurant owners in Marlborough attract and help develop and retain customers.
+We will charge $75,000 for the project. This gives a margin of 100% in the expected case and in the worst-case scenario the margin drops to 25% but we still make some money. Also, we will deliver the project in 4-5 months. If we added additional independent contractors we can shave 4-6 weeks across system analysis, design, coding and unit testing phases leading to the reduction in delivery time of the overall project by 4-6 weeks.
 
 
 
